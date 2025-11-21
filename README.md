@@ -25,16 +25,8 @@ This portal offers RCB fans a dynamic and engaging platform to explore everythin
 
 ---
 
-## 📂 Project Structure  
 
-/rcbfanportal
-│
-├─ about.html ← About the team
-├─ index.html ← Main home page
-├─ style.css ← Styling for all pages
-├─ stadium.jpg ← Stadium image asset
-├─ Royal-Challengers-Bengaluru-Logo-120x120.png ← Team logo
-└─ README.md ← This file
 <img width="1897" height="976" alt="Screenshot 2025-11-21 110524" src="https://github.com/user-attachments/assets/5469d11d-398d-4ed6-a3de-1d86ab72b450" />
 <img width="1889" height="967" alt="Screenshot 2025-11-21 110552" src="https://github.com/user-attachments/assets/f90b646e-a1fe-4abf-86a0-898f138aa732" />
 <img width="748" height="963" alt="Screenshot 2025-11-21 110658" src="https://github.com/user-attachments/assets/5ae26394-9077-45cf-8a31-1670bb294e5e" />
+
